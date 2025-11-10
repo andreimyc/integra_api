@@ -1,0 +1,30 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Pytest and coverage
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment/secrets
+.env
+.env.*
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
